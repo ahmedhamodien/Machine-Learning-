@@ -1,1 +1,10 @@
+We used the Face Mask 12k Images Dataset, which includes:
+
+With Mask
+
+Without Mask
+
+Mask Worn Incorrectly
+
+Organized into Train, Validation, and Test directories.
 
